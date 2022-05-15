@@ -1,6 +1,6 @@
 # Blockixel Concepts for Fabric 1.18.2
 ### Forge Port at https://github.com/OutCraft-Mods/BlockixelConcepts
-A Fabric mod that aims to implement Blockixel Artistry on YouTube's unique minecraft concepts. For a full feature list, test it out or read the code, as I'm far too lazy to update this regularly. To see which features I plan to add in the near future, see Blockixel Artistry's channel and watch the videos and subscribe, he makes cool stuff.
+A Fabric mod that aims to implement Blockixel Artistry on YouTube's unique minecraft concepts. For a full feature list, click ![here](https://github.com/OutCraft-Mods/BlockixelConcepts/wiki). To see which features I plan to add in the near future, see Blockixel Artistry's channel and watch the videos and subscribe, he makes cool stuff.
 Thanks to [OutCraft](https://github.com/OutCraft-Mods) again for the forge port an for emotional support... 
 
 ### Have any suggestions for which of Blockixel's ideas I should add next, or a different mod idea that you'd like to see? 
