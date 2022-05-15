@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "blockixel",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Blockixel Concepts",
+  "description": "A Fabric mod that aims to implement Blockixel Artistry on YouTube's unique minecraft concepts.",
   "authors": [
-    "Me!"
+    "JimmyTheGreat100"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "totallynotagame.com",
+    "sources": "https://github.com/JimmyTheGreat1500/blockixelconcepts"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/blockixelconcepts/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.totallynotagame.blockixel.BlockixelConcepts"
     ]
   },
   "mixins": [
